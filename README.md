@@ -1,4 +1,4 @@
-# ELFO-SPRITE-
+# ELFA-SPRITE-
 KEYFRAME de uma elfa
 
 <!DOCTYPE html>
